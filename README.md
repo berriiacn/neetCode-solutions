@@ -16,8 +16,8 @@ I'm committed to sharpening my data structures and algorithms skills by followin
 - ✅ Two Pointers
 - ✅ Sliding Window
 - ✅ Stack
-- ✅ Binary Search
-- ✅ Linked List
+- ⬜ Binary Search
+- ⬜ Linked List
 - ⬜ Trees
 - ⬜ Tries
 - ⬜ Heap / Priority Queue
